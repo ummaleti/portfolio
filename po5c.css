@@ -1,0 +1,114 @@
+        body {
+            background: linear-gradient(to right, #ffffcc, #ffcccc);
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+        }
+
+        .container {
+            max-width: 800px;
+            margin: 20px auto;
+            background-color: #fff;
+            padding: 20px;
+            border-radius: 8px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        }
+
+        h1, h2 {
+            color: #333;
+            text-align: center;
+        }
+
+        h1 {
+            margin-bottom: 20px;
+        }
+
+        h2 {
+            margin-top: 40px;
+        }
+
+        p {
+            line-height: 1.6;
+            color: #555;
+            text-align: center;
+        }
+
+        .card {
+            background-color: white;
+            border-radius: 10px;
+            box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+            padding: 20px;
+            text-align: center;
+            width: 180px;
+            margin: 20px;
+            display: inline-block;
+        }
+
+        .card img {
+            width: 100px;
+            height: 100px;
+            border-radius: 50%;
+        }
+
+        .project-gallery {
+            display: flex;
+            flex-wrap: wrap;
+            justify-content: center;
+            padding: 20px;
+        }
+
+        .project-card {
+            background-color: #fff;
+            border-radius: 10px;
+            box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+            margin: 10px;
+            padding: 20px;
+            width: 300px;
+            text-align: center;
+        }
+
+        .project-card img {
+            width: 100%;
+            height: auto;
+            border-radius: 10px 10px 0 0;
+        }
+
+        .title {
+            text-align: center;
+            margin-bottom: 20px;
+            font-size: 2.5rem;
+            color: #333;
+        }
+
+        .contact-info {
+            margin: 20px 0;
+            text-align: center;
+        }
+
+        .contact-info h3 {
+            margin: 10px 0;
+            color: #555;
+        }
+
+        .icon {
+            margin-right: 10px;
+            color: #888;
+        }
+
+        p {
+            margin: 5px 0;
+            color: #555;
+        }
+
+        a {
+            color: #007BFF;
+            text-decoration: none;
+        }
+
+        a:hover {
+            text-decoration: underline;
+        }
+        img{
+            width: 200px;
+            
+        }

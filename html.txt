@@ -1,0 +1,6 @@
+<html>
+<head><body>
+<h1>heading</h1>
+<script>this is javascript</script>
+</body>
+</head></html>
